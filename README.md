@@ -43,7 +43,7 @@ Feel free to reach out to me if you have any questions or just want to connect:
 
 - **Email:** [chuksdozie48@gmail.com](mailto:chuksdozie48@gmail.com)
 - **LinkedIn:** [Chukwu Chiedozie](https://www.linkedin.com/in/chiedozie-chukwu-9ab85513a/)
-- **Twitter:** [Send me an X](https://twitter.com/iamchuksdozie)
+- **X:** [Send me an X](https://twitter.com/iamchuksdozie)
 
 Happy coding! 🚀
 
