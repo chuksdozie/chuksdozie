@@ -41,9 +41,9 @@ If you're new to my repository, follow these steps to get started:
 ## Contact
 Feel free to reach out to me if you have any questions or just want to connect:
 
-- **Email:** [your.email@example.com](mailto:chuksdozie48@gmail.com)
+- **Email:** [chuksdozie48@gmail.com](mailto:chuksdozie48@gmail.com)
 - **LinkedIn:** [Chukwu Chiedozie](https://www.linkedin.com/in/chiedozie-chukwu-9ab85513a/)
-- **Twitter:** [@chukwu_username](https://twitter.com/iamchuksdozie)
+- **Twitter:** [Send me an X](https://twitter.com/iamchuksdozie)
 
 Happy coding! 🚀
 
