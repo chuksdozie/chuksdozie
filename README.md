@@ -11,7 +11,7 @@ Hello there! I'm Chukwu Chiedozie, an active developer since 2021. I have a stro
 - React Native
 - Express
 
-## Repository Overview
+<!-- ## Repository Overview
 This GitHub repository contains my work and projects that showcase my skills and experience in the mentioned stacks.
 
 <!-- ## Projects
@@ -25,7 +25,7 @@ This GitHub repository contains my work and projects that showcase my skills and
 <!-- - **Technologies:** List the technologies used in the project.
 <!-- - **How to Run:** Provide instructions on how to run the project locally. -->
 
-## Getting Started
+<!-- ## Getting Started
 If you're new to my repository, follow these steps to get started:
 
 1. Clone the repository to your local machine.
@@ -36,7 +36,7 @@ If you're new to my repository, follow these steps to get started:
 ```cd repository-name```
 
 
-3. Follow the specific instructions in each project's README file to set up and run the projects locally.
+3. Follow the specific instructions in each project's README file to set up and run the projects locally. -->
 
 ## Contact
 Feel free to reach out to me if you have any questions or just want to connect:
