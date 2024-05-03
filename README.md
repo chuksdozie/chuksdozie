@@ -8,6 +8,7 @@ Hello there! I'm Chukwu Chiedozie, an active developer since 2021. I have a stro
 - AWS Amplify
 - React
 - Node
+- Dynamo DB
 - React Native
 - Express
 
